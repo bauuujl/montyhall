@@ -1,0 +1,14 @@
+Package: montyhall
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("John", "Bauer", , "jbauer13@asu.edu", role = c("aut", "cre"))
+Description: Functions to set up and play the Monty Hall Problem game, and
+    to simulate many games in order to compare the stay and switch
+    strategies.
+Depends:
+    dplyr
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
